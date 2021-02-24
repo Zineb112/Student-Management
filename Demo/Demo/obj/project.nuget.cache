@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "PJhPHQCqkVrAe/xWx4PsxAue8nL5qh2F2edYu0/kQXrNqMAlir3BrjRdKg+ag54ZGf+nCvGpOYiE5n/mWsAAKw==",
+  "dgSpecHash": "WI3Dh9mvT+Wa+fXzouNdRDXWhGxfaG49Qh8hRYWAtYp+D/9hhngdIjKQ/FU5Qz61G66q+/l6br4I1qRynrjTgw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Youcode\\Desktop\\Student-Management\\Demo\\Demo\\Demo.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Youcode\\.nuget\\packages\\microsoft.aspnetcore.authentication.facebook\\3.1.0\\microsoft.aspnetcore.authentication.facebook.3.1.0.nupkg.sha512",
+    "C:\\Users\\Youcode\\.nuget\\packages\\microsoft.aspnetcore.authentication.google\\3.0.3\\microsoft.aspnetcore.authentication.google.3.0.3.nupkg.sha512",
     "C:\\Users\\Youcode\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.12\\microsoft.aspnetcore.cryptography.internal.3.1.12.nupkg.sha512",
     "C:\\Users\\Youcode\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.12\\microsoft.aspnetcore.cryptography.keyderivation.3.1.12.nupkg.sha512",
     "C:\\Users\\Youcode\\.nuget\\packages\\microsoft.aspnetcore.diagnostics.entityframeworkcore\\3.1.12\\microsoft.aspnetcore.diagnostics.entityframeworkcore.3.1.12.nupkg.sha512",
